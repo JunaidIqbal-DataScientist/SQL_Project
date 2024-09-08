@@ -33,7 +33,7 @@ The project uses a database with several tables representing different entities 
 ### How to Use
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/JunaidIqbal-DataScientist/SQL_Project.git
    ```
 2. **Open the SQL script**:
    The SQL script `SQL_Portfolio_Project_Junaid_Iqbal.sql` contains all the queries and solutions for the project.
@@ -58,3 +58,4 @@ The project uses a database with several tables representing different entities 
 ### Tools Used
 - **SQL**: The primary language used for querying and analyzing the data.
 - **SQL Database**: The project works with a relational database that consists of multiple related tables.
+  
